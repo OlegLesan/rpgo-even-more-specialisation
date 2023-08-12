@@ -1,0 +1,23 @@
+[Breacher X2UniversalSoldierClassInfo]
+ClassSpecializationTitle="Breacher"
+ClassSpecializationSummary="Breacher - это наш основной солдат, когда нам нужно, чтобы кто-то подошел вплотную к Advent, обошел позиции противника с флангов и выкопал их из труднодоступных мест".
+
+[Rifleman X2UniversalSoldierClassInfo]
+ClassSpecializationTitle="Rifleman"
+ClassSpecializationSummary="¬ою€ в городах јдвента, наша средн€€ дальность бо€ даже меньше, чем привыкло большинство солдат до ¬торжени€. —трелки используют это рассто€ние, чтобы с безошибочной точностью попадать в слабые точки".
+
+[Trooper X2UniversalSoldierClassInfo]
+ClassSpecializationTitle="Trooper"
+ClassSpecializationSummary="ƒесантники - это кост€к нашей обороны, удерживающий завоеванные территории и не дающий јдвенту отступить.  огда вам приходитс€ отступать, вам нужен десантник, на которого можно оперетьс€".
+
+[Machinegunner X2UniversalSoldierClassInfo]
+ClassSpecializationTitle="Machinegunner"
+ClassSpecializationSummary="я уверен, что вам не нужно объ€сн€ть, но пулеметчик использует переносную роторную пушку дл€ подавлени€ врагов, пока отр€д занимает позицию."
+
+[Support X2UniversalSoldierClassInfo]
+ClassSpecializationTitle="Support"
+ClassSpecializationSummary="Ќаши солдаты поддержки используют различные гранаты, чтобы дезориентировать врагов, прикрыть свой отр€д и вз€ть под контроль поле бо€ в любой ситуации".
+
+[Marksman X2UniversalSoldierClassInfo]
+ClassSpecializationTitle="Marksman"
+ClassSpecializationSummary=" огда стрелок прицеливаетс€, он стремитс€ убить, и ничто меньшее его не устроит. ƒержите их в резерве, чтобы сделать последний выстрел, и они станут вашим козырем".
